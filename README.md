@@ -6,5 +6,17 @@ I am a Software Developer with more than 2 years of experience with the followin
 How you can reach me?
 Linkedin: https://www.linkedin.com/in/guillermollanosp/
 
-JavaScript  React HTML5  CSS3  Express Redux SQL Sequelize PostgreSQL Material-UI Git  GitHub  Visual Studio Code 
+- :rocket: JavaScript
+- :atom_symbol: React
+- :art: HTML5
+- :art: CSS3
+- :rocket: Express
+- :arrows_counterclockwise: Redux
+- :floppy_disk: SQL / Sequelize
+- :floppy_disk: PostgreSQL
+- :art: Material-UI
+- :octocat: Git
+- :octocat: GitHub
+- :computer: Visual Studio Code
+
 
