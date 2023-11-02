@@ -6,3 +6,5 @@ I am a Software Developer with more than 2 years of experience with the followin
 How you can reach me?
 Linkedin: https://www.linkedin.com/in/guillermollanosp/
 
+JavaScript  React HTML5  CSS3  Express Redux SQL Sequelize PostgreSQL Material-UI Git  GitHub  Visual Studio Code 
+
